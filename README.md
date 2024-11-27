@@ -37,6 +37,7 @@
   <div>
     <img src="https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=matlab&logoColor=white">
     <img src="https://img.shields.io/badge/Simulink-00A9E0.svg?style=for-the-badge&logo=simulink&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
   </div>
   
   <!-- 임베디드 시스템 (Embedded Systems) -->
@@ -59,6 +60,7 @@
   <div>
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   </div>
 
   <!-- 시스템 (System) -->
