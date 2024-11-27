@@ -63,7 +63,7 @@
   <h3>💻 Devops</h3>
   <div>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+    <img src="https://img.shields.io/badge/amazonaws-FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   </div>
 
   <!-- 협업 (Collaboration) -->
