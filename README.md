@@ -32,15 +32,6 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
   </div>
 
-  <!-- 프론트엔드 (Frontend) -->
-  <h3>💻 Frontend Development</h3>
-  <div>
-    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
-  </div>
-
   <!-- 툴 (Tools) -->
   <h3>🔨 Tools</h3>
   <div>
@@ -52,6 +43,15 @@
   <h3>🔌 Embedded Systems</h3>
   <div>
     <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white">
+  </div>
+
+  <!-- 프론트엔드 (Frontend) -->
+  <h3>💻 Frontend Development</h3>
+  <div>
+    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
   </div>
 
   <!-- 협업 (Collaboration) -->
