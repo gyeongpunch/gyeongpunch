@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   </div>
 
   <!-- 데이터베이스 (Databases) -->
@@ -23,13 +24,32 @@
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   </div>
 
+  <!-- AI/ML (AI/ML) -->
+  <h3>🤖 AI/ML</h3>
+  <div>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  </div>
+  
+  <!-- 빅데이터 (Big Data) -->
+  <h3>📈 Data Engineering</h3>
+  <div>
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Spark-E35B56.svg?style=for-the-badge&logo=apachespark&logoColor=white">
+    <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white">
+  </div>
+
+  <!-- 임베디드 시스템 (Embedded Systems) -->
+  <h3>🔌 Embedded Systems</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white">
+  </div>
+  
   <!-- 프레임워크 (Frameworks) -->
   <h3>🔧 Frameworks</h3>
   <div>
     <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20Spark-E35B56.svg?style=for-the-badge&logo=apachespark&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
   </div>
 
   <!-- 툴 (Tools) -->
@@ -37,22 +57,13 @@
   <div>
     <img src="https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=matlab&logoColor=white">
     <img src="https://img.shields.io/badge/Simulink-00A9E0.svg?style=for-the-badge&logo=simulink&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
   </div>
   
-  <!-- 임베디드 시스템 (Embedded Systems) -->
-  <h3>🔌 Embedded Systems</h3>
+  <!-- 데브옵스 (Devops) -->
+  <h3>💻 Devops</h3>
   <div>
-    <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white">
-  </div>
-
-  <!-- 프론트엔드 (Frontend) -->
-  <h3>💻 Frontend Development</h3>
-  <div>
-    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   </div>
 
   <!-- 협업 (Collaboration) -->
@@ -67,7 +78,6 @@
   <h3>⚙️ System</h3>
   <div>
     <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   </div>
 </div>
 
