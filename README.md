@@ -65,7 +65,7 @@
   <h3>⚙️ System</h3>
   <div>
     <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   </div>
 </div>
 
