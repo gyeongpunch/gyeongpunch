@@ -49,7 +49,7 @@
   <!-- 언어 (Languages) -->
   <h3>🖥️ Languages</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,js&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python&theme=light">
   </div>
 
   <!-- 데이터베이스 (Databases) -->
@@ -67,7 +67,7 @@
   <!-- 빅데이터 (Big Data) -->
   <h3>📈 Data Engineering</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,hadoop,spark,chartjs&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,hadoop,spark&theme=light">
   </div>
 
   <!-- 임베디드 시스템 (Embedded Systems) -->
@@ -76,10 +76,10 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino&theme=light">
   </div>
   
-  <!-- 프레임워크 (Frameworks) -->
-  <h3>🔧 Frameworks</h3>
+  <!-- 웹 (Web) -->
+  <h3>💻 Web</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,js,html,css,chartjs&theme=light">
   </div>
 
   <!-- 툴 (Tools) -->
@@ -89,7 +89,7 @@
   </div>
   
   <!-- 데브옵스 (Devops) -->
-  <h3>💻 Devops</h3>
+  <h3>🔧 Devops</h3>
   <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws&theme=light">
   </div>
