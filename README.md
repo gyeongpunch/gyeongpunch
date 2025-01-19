@@ -85,7 +85,9 @@
   <!-- 툴 (Tools) -->
   <h3>🔨 Tools</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab,matplotlib&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab,matplotlib&theme=dark" alt="Skill Icons" width="100" height="auto">
+    <img src="https://via.placeholder.com/50x1" alt="" width="0" height="1">
+    <img src="https://media.imgcdn.org/repo/2023/03/siemens-simcenter-prescan/siemens-simcenter-prescan-logo.png" alt="Simcenter Prescan Logo" width="47" height="auto">
   </div>
   
   <!-- 데브옵스 (Devops) -->
