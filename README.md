@@ -103,6 +103,6 @@
   <!-- 시스템 (System) -->
   <h3>⚙️ System</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu&theme=dark">
   </div>
 </div>
