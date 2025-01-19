@@ -49,55 +49,55 @@
   <!-- 언어 (Languages) -->
   <h3>🖥️ Languages</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python&theme=dark">
   </div>
 
   <!-- 데이터베이스 (Databases) -->
   <h3>💾 Databases</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite&theme=dark">
   </div>
 
   <!-- AI/ML (AI/ML) -->
   <h3>🤖 AI/ML</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,opencv&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,opencv&theme=dark">
   </div>
   
   <!-- 빅데이터 (Big Data) -->
   <h3>📈 Data Engineering</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,hadoop,spark&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,hadoop,spark&theme=dark">
   </div>
 
   <!-- 임베디드 시스템 (Embedded Systems) -->
   <h3>🔌 Embedded Systems</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino&theme=dark">
   </div>
   
   <!-- 웹 (Web) -->
   <h3>💻 Web</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,js,html,css,chartjs&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,js,html,css,chartjs&theme=dark">
   </div>
 
   <!-- 툴 (Tools) -->
   <h3>🔨 Tools</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab,matplotlib&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab,matplotlib&theme=dark">
   </div>
   
   <!-- 데브옵스 (Devops) -->
   <h3>🔧 Devops</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws&theme=dark">
   </div>
 
   <!-- 협업 (Collaboration) -->
   <h3>🤝 Collaboration</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,notion&theme=light">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,notion&theme=dark">
   </div>
 
   <!-- 시스템 (System) -->
