@@ -35,7 +35,7 @@
     </li>
     <li>
       <b>🥇 [HMG Softeer Bootcamp 4기 Data Engineering 1등 (최우수 소프티어)]</b>  
-      <br>📅 [2025.08.29]
+      <br>📅 [2024.08.29]
       <br>📝 <i>자동차 커뮤니티와 뉴스 데이터를 분석하여 특정 차종과 결함에 대한 관심도가 급증하는 경우 이를 실시간으로 탐지해 사용자에게 알림을 제공</i>
       <br>🔍 <i>Apache Spark와 Step Functions를 활용하여 대용량 데이터를 처리 및 분석하는 데이터 파이프라인 구축</i>
       <br>🔍 <i>Flask와 Chart.js를 이용하여 대시보드 시각화 수행 및 EC2 인스턴스를 이용하여 배포</i>
