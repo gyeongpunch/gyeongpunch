@@ -30,14 +30,14 @@
       <b>🥉&nbsp;&nbsp;지멘스/워크온 시뮬레이션 2024 자율주행 시뮬레이션 경진대회 3등</b>  
       <br>📅&nbsp;&nbsp;2024.06.25
       <br>📝 &nbsp;<i>자율주행 시스템의 센서 설계 및 제어 로직 구현을 통해 시뮬레이션 환경 구축</i> 
-      <br>🔍 &nbsp;<i>Prescan과 Simulink를 이용하여 LKAS(Line Keeping Assist System) 및 AEB(Automatic Emergency Braking) 구현</i>  
+      <br>🔍 &nbsp;<i>Simcenter Prescan과 Matlab Simulink를 이용하여 LKAS(Line Keeping Assist System) 및 AEB(Automatic Emergency Braking) 구현</i>  
       <br>🔍 &nbsp;<i>센서 구성 및 시뮬레이션 파라미터를 직접 설계하여 Model-in-the-Loop 환경에서 제어 로직 검증 및 시뮬레이션 최적화 수행</i>
     </li>
     <li>
       <b>🥇&nbsp;&nbsp;HMG Softeer Bootcamp 4기 Data Engineering 1등 (최우수 소프티어)</b>  
       <br>📅&nbsp;&nbsp;2024.08.29
       <br>📝 &nbsp;<i>자동차 커뮤니티와 뉴스 데이터를 분석하여 특정 차종과 결함에 대한 관심도가 급증하는 경우 이를 실시간으로 탐지해 사용자에게 알림을 제공</i>
-      <br>🔍 &nbsp;<i>Apache Spark와 Step Functions를 활용하여 대용량 데이터를 처리 및 분석하는 데이터 파이프라인 구축</i>
+      <br>🔍 &nbsp;<i>Apache Spark와 AWS Step Functions를 활용하여 대용량 데이터를 처리 및 분석하는 데이터 파이프라인 구축</i>
       <br>🔍 &nbsp;<i>Flask와 Chart.js를 이용하여 대시보드 시각화 수행 및 EC2 인스턴스를 이용하여 배포</i>
     </li>
   </ul>
