@@ -49,7 +49,7 @@
   <!-- 언어 (Languages) -->
   <h3>🖥️ Languages</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,js&theme=dark">
   </div>
 
   <!-- 데이터베이스 (Databases) -->
@@ -79,7 +79,7 @@
   <!-- 웹 (Web) -->
   <h3>💻 Web</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,js,html,css,chartjs&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,html,css,chartjs&theme=dark">
   </div>
 
   <!-- 툴 (Tools) -->
