@@ -76,10 +76,16 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino&theme=dark">
   </div>
   
-  <!-- 웹 (Web) -->
-  <h3>💻 Web</h3>
+  <!-- Backend -->
+  <h3>💻 Backend, Baas</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,html,css,chartjs&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,nodejs,firebase&theme=dark">
+  </div>
+
+  <!-- Frontend -->
+  <h3>🖥️ Frontend</h3>
+  <div>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,chartjs&theme=dark">
   </div>
 
   <!-- 툴 (Tools) -->
