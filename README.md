@@ -85,7 +85,7 @@
   <!-- Frontend -->
   <h3>🖥️ Frontend</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,chartjs&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,vue,chartjs&theme=dark">
   </div>
 
   <!-- 툴 (Tools) -->
