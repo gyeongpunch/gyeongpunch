@@ -1,6 +1,8 @@
 # Han Gyeonghun 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyeongpunch&count_bg=%23C5A16F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div>
+<!--   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyeongpunch&count_bg=%23C5A16F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhrehowl06)](https://solved.ac/qhrehowl06/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeongpunch&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
