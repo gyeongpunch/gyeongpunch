@@ -75,7 +75,7 @@
   <!-- 임베디드 시스템 (Embedded Systems) -->
   <h3>🔌 Embedded Systems</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,linux,ubuntu,virtualbox&theme=dark">
   </div>
   
   <!-- Backend -->
@@ -109,10 +109,3 @@
   <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,notion&theme=dark">
   </div>
-
-  <!-- 시스템 (System) -->
-  <h3>⚙️ System</h3>
-  <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu&theme=dark">
-  </div>
-</div>
