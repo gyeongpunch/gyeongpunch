@@ -63,7 +63,7 @@
   <!-- AI/ML (AI/ML) -->
   <h3>🤖 AI/ML</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,opencv&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,opencv,pytorch&theme=dark">
   </div>
   
   <!-- 빅데이터 (Big Data) -->
@@ -75,7 +75,7 @@
   <!-- 임베디드 시스템 (Embedded Systems) -->
   <h3>🔌 Embedded Systems</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,linux,ubuntu,virtualbox&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,arduino,linux,ubuntu,virtualbox&theme=dark">
   </div>
   
   <!-- Backend -->
