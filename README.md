@@ -5,7 +5,7 @@
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhrehowl06)](https://solved.ac/qhrehowl06/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeongpunch&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeongpunch&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <!-- 학사 (Education) -->
