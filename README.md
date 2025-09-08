@@ -58,7 +58,7 @@
   <!-- 언어 (Languages) -->
   <h3>🖥️ Languages</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,js&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python&theme=dark">
   </div>
 
   <!-- 데이터베이스 (Databases) -->
@@ -82,19 +82,19 @@
   <!-- 임베디드 시스템 (Embedded Systems) -->
   <h3>🔌 Embedded Systems</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,arduino,linux,ubuntu,virtualbox&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,arduino,linux,ubuntu,virtualbox,vim&theme=dark">
   </div>
   
   <!-- Backend -->
-  <h3>💻 Backend, Baas</h3>
+  <h3>💻 Backend</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,nodejs,firebase&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,nodejs&theme=dark">
   </div>
 
   <!-- Frontend -->
   <h3>🖥️ Frontend</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,vue,chartjs&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,vue,chartjs&theme=dark">
   </div>
 
   <!-- 툴 (Tools) -->
@@ -114,5 +114,5 @@
   <!-- 협업 (Collaboration) -->
   <h3>🤝 Collaboration</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,notion&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,notion,jira&theme=dark">
   </div>
