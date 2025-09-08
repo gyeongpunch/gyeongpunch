@@ -42,6 +42,13 @@
       <br>🔍&nbsp;&nbsp;<i>Apache Spark와 AWS Step Functions를 활용하여 대용량 데이터를 처리 및 분석하는 데이터 파이프라인 구축</i>
       <br>🔍&nbsp;&nbsp;<i>Flask와 Chart.js를 이용하여 대시보드 시각화 수행 및 EC2 인스턴스를 이용하여 배포</i>
     </li>
+    <li>
+      <b>🥈&nbsp;&nbsp;삼성전자 SSAFY 13기 공통 프로젝트 2등</b>  
+      <br>📅&nbsp;&nbsp;2025.08.18
+      <br>📝&nbsp;&nbsp;<i>물류창고 내 화재 징후 조기 탐지를 위한 SLAM 기반 자율주행 로봇 플랫폼 개발</i>
+      <br>🔍&nbsp;&nbsp;<i>ROS2, Cartographer, Nav2 스택을 통합하여 로봇의 자율주행 시스템 설계 및 구현</i>
+      <br>🔍&nbsp;&nbsp;<i>Ackermann 구조의 물리적 한계와 IMU 센서 오차를 소프트웨어로 극복하여 시스템 안정성 확보</i>
+    </li>
   </ul>
 
   
@@ -69,7 +76,7 @@
   <!-- 빅데이터 (Big Data) -->
   <h3>📈 Data Engineering</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,hadoop,spark,matplotlib&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,hadoop,spark,kafka,matplotlib&theme=dark">
   </div>
 
   <!-- 임베디드 시스템 (Embedded Systems) -->
