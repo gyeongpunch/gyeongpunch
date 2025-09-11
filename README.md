@@ -84,18 +84,6 @@
   <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,arduino,linux,ubuntu,virtualbox,vim&theme=dark">
   </div>
-  
-  <!-- Backend -->
-  <h3>💻 Backend</h3>
-  <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,nodejs&theme=dark">
-  </div>
-
-  <!-- Frontend -->
-  <h3>🖥️ Frontend</h3>
-  <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,vue,chartjs&theme=dark">
-  </div>
 
   <!-- 툴 (Tools) -->
   <h3>🔨 Tools</h3>
