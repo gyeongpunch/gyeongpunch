@@ -29,11 +29,11 @@
   <h1>🏆 Awards</h1>
   <ul>
     <li>
-      <b>🥉&nbsp;&nbsp;지멘스/워크온 시뮬레이션 2024 자율주행 시뮬레이션 경진대회 3등</b>  
-      <br>📅&nbsp;&nbsp;2024.06.25
-      <br>📝&nbsp;&nbsp;<i>자율주행 시스템의 센서 설계 및 제어 로직 구현을 통해 시뮬레이션 환경 구축</i> 
-      <br>🔍&nbsp;&nbsp;<i>Simcenter Prescan과 Matlab Simulink를 이용하여 LKAS(Lane Keeping Assist System) 및 AEB(Automatic Emergency Braking) 구현</i>  
-      <br>🔍&nbsp;&nbsp;<i>센서 구성 및 시뮬레이션 파라미터를 직접 설계하여 Model-in-the-Loop 환경에서 제어 로직 검증 및 시뮬레이션 최적화 수행</i>
+      <b>🥈&nbsp;&nbsp;삼성 청년 SW·AI 아카데미 13기 공통 프로젝트 2등</b>  
+      <br>📅&nbsp;&nbsp;2025.08.18
+      <br>📝&nbsp;&nbsp;<i>물류창고 내 화재 징후 조기 탐지를 위한 SLAM 기반 자율주행 로봇 플랫폼 개발</i>
+      <br>🔍&nbsp;&nbsp;<i>ROS2, Cartographer, Nav2 스택을 통합하여 로봇의 자율주행 시스템 설계 및 구현</i>
+      <br>🔍&nbsp;&nbsp;<i>Ackermann 구조의 물리적 한계와 IMU 센서 오차를 소프트웨어로 극복하여 시스템 안정성 확보</i>
     </li>
     <li>
       <b>🥇&nbsp;&nbsp;HMG Softeer Bootcamp 4기 Data Engineering 1등 (최우수 소프티어)</b>  
@@ -43,11 +43,11 @@
       <br>🔍&nbsp;&nbsp;<i>Flask와 Chart.js를 이용하여 대시보드 시각화 수행 및 EC2 인스턴스를 이용하여 배포</i>
     </li>
     <li>
-      <b>🥈&nbsp;&nbsp;삼성전자 SSAFY 13기 공통 프로젝트 2등</b>  
-      <br>📅&nbsp;&nbsp;2025.08.18
-      <br>📝&nbsp;&nbsp;<i>물류창고 내 화재 징후 조기 탐지를 위한 SLAM 기반 자율주행 로봇 플랫폼 개발</i>
-      <br>🔍&nbsp;&nbsp;<i>ROS2, Cartographer, Nav2 스택을 통합하여 로봇의 자율주행 시스템 설계 및 구현</i>
-      <br>🔍&nbsp;&nbsp;<i>Ackermann 구조의 물리적 한계와 IMU 센서 오차를 소프트웨어로 극복하여 시스템 안정성 확보</i>
+      <b>🥉&nbsp;&nbsp;지멘스/워크온 시뮬레이션 2024 자율주행 시뮬레이션 경진대회 3등</b>  
+      <br>📅&nbsp;&nbsp;2024.06.25
+      <br>📝&nbsp;&nbsp;<i>자율주행 시스템의 센서 설계 및 제어 로직 구현을 통해 시뮬레이션 환경 구축</i> 
+      <br>🔍&nbsp;&nbsp;<i>Simcenter Prescan과 Matlab Simulink를 이용하여 LKAS(Lane Keeping Assist System) 및 AEB(Automatic Emergency Braking) 구현</i>  
+      <br>🔍&nbsp;&nbsp;<i>센서 구성 및 시뮬레이션 파라미터를 직접 설계하여 Model-in-the-Loop 환경에서 제어 로직 검증 및 시뮬레이션 최적화 수행</i>
     </li>
   </ul>
 
@@ -64,7 +64,7 @@
   <!-- 데이터베이스 (Databases) -->
   <h3>💾 Databases</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite&theme=dark">
   </div>
 
   <!-- AI/ML (AI/ML) -->
