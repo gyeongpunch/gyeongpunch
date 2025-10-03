@@ -94,7 +94,7 @@
   </div>
   
   <!-- 데브옵스 (Devops) -->
-  <h3>🔧 Devops</h3>
+  <h3>🔧 DevOps</h3>
   <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws&theme=dark">
   </div>
