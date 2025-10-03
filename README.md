@@ -76,7 +76,7 @@
   <!-- 빅데이터 (Big Data) -->
   <h3>📈 Data Engineering</h3>
   <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,hadoop,spark,kafka,matplotlib&theme=dark">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,hadoop,spark,kafka&theme=dark">
   </div>
 
   <!-- 임베디드 시스템 (Embedded Systems) -->
